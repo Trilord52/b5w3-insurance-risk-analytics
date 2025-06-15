@@ -1,0 +1,2 @@
+# B5W3: End-to-End Insurance Risk Analytics & Predictive Modeling
+This repository contains code, data, and reports for the AlphaCare Insurance Solutions project. It covers Tasks 1-4, focusing on EDA, DVC, hypothesis testing, and predictive modeling.

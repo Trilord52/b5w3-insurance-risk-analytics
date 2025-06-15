@@ -3,30 +3,29 @@
 This repository contains the code, data, and documentation for the Week 3 Challenge of the 10 Academy Artificial Intelligence Mastery Program. The project focuses on analyzing historical car insurance claim data (`MachineLearningRating_v3.txt`) for AlphaCare Insurance Solutions (ACIS) to optimize marketing strategies, identify low-risk customer segments, and reduce churn through premium adjustments. The goal is to deliver actionable insights using exploratory data analysis (EDA), data version control (DVC), hypothesis testing, and predictive modeling.
 
 ## 🧭 Project Structure
-Updated README in Markdown Format
-markdown
 
-Collapse
-
-Wrap
-
-Copy
-# B5W3: End-to-End Insurance Risk Analytics & Predictive Modeling
-
-This repository contains the code, data, and documentation for the Week 3 Challenge of the 10 Academy Artificial Intelligence Mastery Program. The project focuses on analyzing historical car insurance claim data (`MachineLearningRating_v3.txt`) for AlphaCare Insurance Solutions (ACIS) to optimize marketing strategies, identify low-risk customer segments, and reduce churn through premium adjustments. The goal is to deliver actionable insights using exploratory data analysis (EDA), data version control (DVC), hypothesis testing, and predictive modeling.
-
-## 🧭 Project Structure
 b5w3-insurance-risk-analytics/
+
 ├── data/
+
 │   └── MachineLearningRating_v3.txt  # Raw insurance claims data
+
 ├── scripts/
+
 │   ├── eda.py                     # Script for exploratory data analysis
+
 │   └── (future scripts for Tasks 3 & 4)
+
 ├── plots/                         # Generated EDA visualizations
+
 ├── reports/                       # Analysis reports
+
 ├── .dvc/                          # DVC configuration
+
 ├── .gitignore                     # Excludes local artifacts
+
 ├── requirements.txt              # Dependencies
+
 └── README.md                      # You're here
 
 ## 📌 Project Objectives
@@ -79,14 +78,14 @@ Main goal: Analyze 18 months of car insurance data (Feb 2014–Aug 2015) to enha
 ## 🌍 Usage
 
 ### Setup Environment
-git clone https://github.com/Trilord52/b5w3-insurance-risk-analytics.git
-cd b5w3-insurance-risk-analytics
-python -m venv venv
-venv\Scripts\activate  # Windows
-pip install -r requirements.txt
+- git clone https://github.com/Trilord52/b5w3-insurance-risk-analytics.git
+- cd b5w3-insurance-risk-analytics
+- python -m venv venv
+- venv\Scripts\activate  # Windows
+- pip install -r requirements.txt
 
 ### Run EDA
-python scripts/eda.py
+- python scripts/eda.py
 
 ## 📈 Contribution Summary
 

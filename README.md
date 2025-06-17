@@ -74,7 +74,7 @@ python -m venv venv
 venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 dvc pull data/raw/MachineLearningRating_v3.txt
-
+```
 
 ## Run Analyses
 

@@ -11,17 +11,29 @@ The primary objective is to enhance customer retention and profitability by anal
 
 ## 🗂️ Project Structure
 b5w3-insurance-risk-analytics/
+
 ├── data/
+
 │   ├── raw/                    # Raw data files (e.g., MachineLearningRating_v3.txt)
+
 │   └── processed/             # Processed datasets
+
 ├── analysis_scripts/           # Analysis scripts (e.g., eda.py, ab_testing.py, predictive_modeling.py)
+
 ├── visualizations/            # Generated EDA and model visualizations
+
 ├── reports/                   # Analysis reports and documentation
+
 ├── analysis_outputs/          # Outputs from statistical tests and models
+
 ├── .dvc/                      # DVC configuration
+
 ├── .github/                   # CI/CD workflows
+
 ├── .gitignore                 # Excludes local artifacts (e.g., venv/, data_storage/)
+
 ├── requirements.txt           # Project dependencies
+
 └── README.md                  # Project overview
 
 
